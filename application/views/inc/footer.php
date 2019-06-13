@@ -10,8 +10,8 @@
                                     <h4>Information</h4>
                                     <div class="footer-contacts">
                                         <p><span>Tel :</span> +1907-543478944</p>
-                                        <p><span>Email :</span> info@cavalier43.com</p>
-                                        <p><span>Location :</span> House-30/2,  New york</p>
+                                        <p><span>Email :</span> timestampcafe@gmail.com</p>
+                                        <p><span>Location :</span> Cabrera St. Pasay City</p>
                                     </div>
                                     <div class="footer-icons">
                                         <ul>

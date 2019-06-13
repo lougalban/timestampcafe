@@ -5,7 +5,7 @@
             <div class="intro-carousel">
                 <div class="intro-content">
                     <div class="slider-images">
-                        <img src="{base_url}assets/img/slider/s1.jpg" alt="">
+                        <img src="{base_url}assets/img/slider/1.jpg" alt="">
                     </div>
                     <div class="slider-content">
 						<div class="container">
@@ -20,7 +20,7 @@
 									</div>
 									<!-- layer 3 -->
 									<div class="layer-1-3">
-										<a href="#" class="ready-btn" >Know more</a>
+										<a href="{base_url}services" class="ready-btn" >Know more</a>
 									</div>
 								</div>
 							</div>
@@ -29,7 +29,7 @@
                 </div>
                 <div class="intro-content">
                     <div class="slider-images">
-                        <img src="{base_url}assets/img/slider/s2.jpg" alt="">
+                        <img src="{base_url}assets/img/slider/2.jpg" alt="">
                     </div>
                     <div class="slider-content">
 						<div class="container">
@@ -44,7 +44,7 @@
 									</div>
 									<!-- layer 3 -->
 									<div class="layer-1-3">
-										<a href="#" class="ready-btn" >Know more</a>
+										<a href="{base_url}services" class="ready-btn" >Know more</a>
 									</div>
 								</div>
 							</div>
@@ -56,7 +56,15 @@
         <!-- End Slider Area -->
         <!-- Welcome service area start -->
         <div class="services-area bg-color-2 area-padding">
-            <div class="container">
+            <div class="container">            	
+               <div class="row">
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="section-headline white-headline text-center">
+							<h3>Upcomming Events</h3>
+							<p>Events Tournaments and Rewards</p>
+						</div>
+					</div>
+				</div>
                 <div class="row">
                     <div class="services-carousel">
                     	<!-- single-well end-->
