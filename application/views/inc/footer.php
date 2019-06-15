@@ -92,8 +92,8 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="copyright">
                                 <p>
-                                    Copyright © 2018
-                                    <a href="#">Cavalier</a> All Rights Reserved
+                                    Copyright © 2019
+                                    <a href="{base_url}">Timstamp Cyber Cafe</a> All Rights Reserved
                                 </p>
                             </div>
                         </div>

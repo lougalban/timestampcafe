@@ -13,10 +13,10 @@
 								<div class="col-md-12 text-center">
 									<!-- layer 1 -->
 									<div class="layer-1-2">
-										<h1 class="title2">Cavalier create your virtual worlds </h1>
+										<h1 class="title2">Sample title text here </h1>
 									</div>
 									<div class="layer-1-1 hidden-xs">
-										<p>Cavalier Studios has been creating innovative games since 2003. We offer our clients professional development services.</p>
+										<p>Sample short description here. Sample short description here. Sample short description here. Sample short description here. </p>
 									</div>
 									<!-- layer 3 -->
 									<div class="layer-1-3">
@@ -37,10 +37,10 @@
 								<div class="col-md-12 text-center">
 									<!-- layer 1 -->
 									<div class="layer-1-2">
-										<h1 class="title2">We are ready your next challenge</h1>
+										<h1 class="title2">Another Sample title text here </h1>
 									</div>
 									<div class="layer-1-1 hidden-xs">
-										<p>Cavalier Studios has been creating innovative games since 2003. We offer our clients professional development services.</p>
+										<p>Sample short description here. Sample short description here. Sample short description here. Sample short description here. </p>
 									</div>
 									<!-- layer 3 -->
 									<div class="layer-1-3">
@@ -61,7 +61,7 @@
 					<div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="section-headline white-headline text-center">
 							<h3>Upcomming Events</h3>
-							<p>Events Tournaments and Rewards</p>
+							<p>Latest and Upcomming events held in Timestamp Cyber Cafe</p>
 						</div>
 					</div>
 				</div>
@@ -71,16 +71,16 @@
 						<div class="col-md-4 col-sm-4 col-xs-12">
 							<div class="single-services text-center">
 								<div class="services-img">
-									<img src="{base_url}assets/img/feature/1.jpg" alt="">
+									<img src="{base_url}assets/img/events/mobile-legends-tournament.jpg" alt="Mobile Legends Tournament">
 									<div class="image-layer">
 										<img src="{base_url}assets/img/icon/g1.png" alt="icon Image">
 									</div>
 								</div>
 								<div class="main-services">
 									<div class="service-content">
-										<h4>Ripple Royal</h4>
-										<p>Comming soon Feb 4, 2019</p>
-										<a class="service-btn" href="#">Learn more</a>
+										<h4>Mobile Legends Tournament</h4>
+										<p>April 27, 2019</p>
+										<a class="service-btn" href="#">View Details</a>
 									</div>
 								</div>
 							</div>
@@ -89,16 +89,16 @@
 						<div class="col-md-4 col-sm-4 col-xs-12">
 							<div class="single-services text-center">
 								<div class="services-img">
-									<img src="{base_url}assets/img/feature/2.jpg" alt="">
+									<img src="{base_url}assets/img/events/crossfire-tournament.jpg" alt="Crossfire Tournament">
 									<div class="image-layer">
 										<img src="{base_url}assets/img/icon/g2.png" alt="icon Image">
 									</div>
 								</div>
 								<div class="main-services">
 									<div class="service-content">
-										<h4>Dancei roy</h4>
-										<p>Comming soon Feb 4, 2019</p>
-										<a class="service-btn" href="#">Learn more</a>
+										<h4>Crossfire Tournament</h4>
+										<p>March 30, 2019</p>
+										<a class="service-btn" href="#">View Details</a>
 									</div>
 								</div>
 							</div>
@@ -107,75 +107,20 @@
 						<div class="col-md-4 col-sm-4 col-xs-12">
 							<div class="single-services text-center">
 								<div class="services-img">
-									<img src="{base_url}assets/img/feature/3.jpg" alt="">
+									<img src="{base_url}assets/img/events/league-of-legends-tournament.jpg" alt="League of Legends Tournament">
 									<div class="image-layer">
 										<img src="{base_url}assets/img/icon/g3.png" alt="icon Image">
 									</div>
 								</div>
 								<div class="main-services">
 									<div class="service-content">
-										<h4>Fight challange</h4>
-										<p>Comming soon Feb 4, 2019</p>
-										<a class="service-btn" href="#">Learn more</a>
+										<h4>League of Legends Tournament</h4>
+										<p>February 23, 2019</p>
+										<a class="service-btn" href="#">View Details</a>
 									</div>
 								</div>
 							</div>
 						</div>
-						<!-- single-well end-->
-                        <div class="col-md-4 col-sm-4 col-xs-12">
-							<div class="single-services text-center">
-								<div class="services-img">
-									<img src="{base_url}assets/img/feature/4.jpg" alt="">
-									<div class="image-layer">
-										<img src="{base_url}assets/img/icon/g4.png" alt="icon Image">
-									</div>
-								</div>
-								<div class="main-services">
-									<div class="service-content">
-										<h4>Sky blue</h4>
-										<p>Comming soon Feb 4, 2019</p>
-										<a class="service-btn" href="#">Learn more</a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<!-- single-well end-->
-                        <div class="col-md-4 col-sm-4 col-xs-12">
-							<div class="single-services text-center">
-								<div class="services-img">
-									<img src="{base_url}assets/img/feature/5.jpg" alt="">
-									<div class="image-layer">
-										<img src="{base_url}assets/img/icon/g5.png" alt="icon Image">
-									</div>
-								</div>
-								<div class="main-services">
-									<div class="service-content">
-										<h4>Dragon world</h4>
-										<p>Comming soon Feb 4, 2019</p>
-										<a class="service-btn" href="#">Learn more</a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<!-- single-well end-->
-                        <div class="col-md-4 col-sm-4 col-xs-12">
-							<div class="single-services text-center">
-								<div class="services-img">
-									<img src="{base_url}assets/img/feature/6.jpg" alt="">
-									<div class="image-layer">
-										<img src="{base_url}assets/img/icon/g6.png" alt="icon Image">
-									</div>
-								</div>
-								<div class="main-services">
-									<div class="service-content">
-										<h4>Strange anime</h4>
-										<p>Comming soon Feb 4, 2019</p>
-										<a class="service-btn" href="#">Learn more</a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<!-- single-well end-->
                     </div>
                 </div>
             </div>
@@ -187,8 +132,8 @@
                <div class="row">
 					<div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="section-headline white-headline text-center">
-							<h3>Our Games</h3>
-							<p>Cavalier Studios has been creating innovative games since 2003. We offer our clients professional development services.</p>
+							<h3>Games</h3>
+							<p>Sample description here. Sample description here. Sample description here. Sample description here. </p>
 						</div>
 					</div>
 				</div>
@@ -196,11 +141,11 @@
                     <div class="best-product">
                         <!-- Start single product -->
                         <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="single-product">
+                            <div class="single-product-container">
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="product">
+                                    <div class="single-product">
 										<div class="product-img">
-										    <span class="category"> Pc</span>
+										    <span class="category"> DOTA 2</span>
 											<img class="first-img" src="{base_url}assets/img/product/p1.jpg" alt="">
 											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
 											   <i class="fa fa-play"></i>
@@ -210,68 +155,9 @@
                                 </div>
                                 <!-- Start product content -->
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-									<div class="product-content text-center">
-										<h4 class="product-name">
-											<a href="#">Temple Fight</a>
-										</h4>
-										<div class="launch-date">
-											<span>Launch: June 2016</span>
-										</div>
-										<div class="price-box">
-											<span class="price">Price: Free</span>
-										</div>
-										<div class="pro-rating no-rating">
-										    <span class="rating-rate"> Rating: 4.5</span>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-										</div>
-										<div class="download-btn">
-											<span class="play-btn"><img src="{base_url}assets/img/icon/gplay.png" alt=""></span>
-											<span class="play-btn"><img src="{base_url}assets/img/icon/aplay.png" alt=""></span>
-										</div>
-									</div>
-                                </div>
-                                <!-- End product content -->
-                            </div>
-                        </div>
-                        <!-- End single product -->
-                        <!-- Start single product -->
-                        <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="single-product">
-                                <!-- Start product content -->
-                                <div class="col-md-6 col-sm-6 hidden-xs">
-									<div class="product-content text-center">
-										<h4 class="product-name">
-											<a href="#">Dangers War</a>
-										</h4>
-										<div class="launch-date">
-											<span>Launch: March 2017</span>
-										</div>
-										<div class="price-box">
-											<span class="price">Price: Free</span>
-										</div>
-										<div class="pro-rating no-rating">
-										    <span class="rating-rate"> Rating: 4.5</span>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-										</div>
-										<div class="download-btn">
-											<span class="play-btn"><img src="{base_url}assets/img/icon/gplay.png" alt=""></span>
-											<span class="play-btn"><img src="{base_url}assets/img/icon/aplay.png" alt=""></span>
-										</div>
-									</div>
-                                </div>
-                                <!-- End product content -->
-                                <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="product">
+									<div class="single-product">
 										<div class="product-img">
-										    <span class="category"> Ps4</span>
+										    <span class="category"> League of Legends</span>
 											<img class="first-img" src="{base_url}assets/img/product/p2.jpg" alt="">
 											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
 											   <i class="fa fa-play"></i>
@@ -279,42 +165,18 @@
 										</div>
                                     </div>
                                 </div>
-                                <div class="hidden-lg hidden-md hidden-sm col-xs-12">
-									<div class="product-content text-center">
-										<h4 class="product-name">
-											<a href="#">Dangers War</a>
-										</h4>
-										<div class="launch-date">
-											<span>Launch: March 2017</span>
-										</div>
-										<div class="price-box">
-											<span class="price">Price: Free</span>
-										</div>
-										<div class="pro-rating no-rating">
-										    <span class="rating-rate"> Rating: 4.5</span>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-										</div>
-										<div class="download-btn">
-											<span class="play-btn"><img src="{base_url}assets/img/icon/gplay.png" alt=""></span>
-											<span class="play-btn"><img src="{base_url}assets/img/icon/aplay.png" alt=""></span>
-										</div>
-									</div>
-                                </div>
+                                <!-- End product content -->
                             </div>
                         </div>
                         <!-- End single product -->
                         <!-- Start single product -->
                         <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="single-product">
+                            <div class="single-product-container">
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="product">
+                                    <div class="single-product">
 										<div class="product-img">
-										<span class="category"> Mobile</span>
-											<img class="first-img" src="{base_url}assets/img/product/p3.jpg" alt="">
+										    <span class="category"> DOTA 2</span>
+											<img class="first-img" src="{base_url}assets/img/product/p1.jpg" alt="">
 											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
 											   <i class="fa fa-play"></i>
 											</a>
@@ -323,103 +185,23 @@
                                 </div>
                                 <!-- Start product content -->
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-									<div class="product-content text-center">
-										<h4 class="product-name">
-											<a href="#">Angels fight</a>
-										</h4>
-										<div class="launch-date">
-											<span>Launch: january 2017</span>
-										</div>
-										<div class="price-box">
-											<span class="price">Price: $80</span>
-										</div>
-										<div class="pro-rating no-rating">
-										    <span class="rating-rate"> Rating: 4.5</span>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-										</div>
-										<div class="download-btn">
-											<span class="play-btn"><img src="{base_url}assets/img/icon/gplay.png" alt=""></span>
-											<span class="play-btn"><img src="{base_url}assets/img/icon/aplay.png" alt=""></span>
-										</div>
-									</div>
-                                </div>
-                                <!-- End product content -->
-                            </div>
-                        </div>
-                        <!-- End single product -->
-                        <!-- Start single product -->
-                        <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="single-product last-item">
-                                <!-- Start product content -->
-                                <div class="col-md-6 col-sm-6 hidden-xs">
-									<div class="product-content text-center">
-										<h4 class="product-name">
-											<a href="#">Dragons War</a>
-										</h4>
-										<div class="launch-date">
-											<span>Launch: February 2018</span>
-										</div>
-										<div class="price-box">
-											<span class="price">Price: $100</span>
-										</div>
-										<div class="pro-rating no-rating">
-										    <span class="rating-rate"> Rating: 4.5</span>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-										</div>
-										<div class="download-btn">
-											<span class="play-btn"><img src="{base_url}assets/img/icon/gplay.png" alt=""></span>
-											<span class="play-btn"><img src="{base_url}assets/img/icon/aplay.png" alt=""></span>
-										</div>
-									</div>
-                                </div>
-                                <!-- End product content -->
-                                <div class="col-md-6 col-sm-6">
-                                    <div class="product">
+									<div class="single-product">
 										<div class="product-img">
-										    <span class="category"> Pc</span>
-											<img class="first-img" src="{base_url}assets/img/product/p4.jpg" alt="">
+										    <span class="category"> League of Legends</span>
+											<img class="first-img" src="{base_url}assets/img/product/p2.jpg" alt="">
 											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
 											   <i class="fa fa-play"></i>
 											</a>
 										</div>
                                     </div>
                                 </div>
-                                <div class="hidden-lg hidden-md hidden-sm col-xs-12">
-									<div class="product-content text-center">
-										<h4 class="product-name">
-											<a href="#">Dragons War</a>
-										</h4>
-										<div class="launch-date">
-											<span>Launch: February 2018</span>
-										</div>
-										<div class="price-box">
-											<span class="price">Price: $100</span>
-										</div>
-										<div class="pro-rating no-rating">
-										    <span class="rating-rate"> Rating: 4.5</span>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-											<a href="#"><i class="fa fa-star-o"></i></a>
-										</div>
-										<div class="download-btn">
-											<span class="play-btn"><img src="{base_url}assets/img/icon/gplay.png" alt=""></span>
-											<span class="play-btn"><img src="{base_url}assets/img/icon/aplay.png" alt=""></span>
-										</div>
-									</div>
-                                </div>
+                                <!-- End product content -->
                             </div>
                         </div>
                         <!-- End single product -->
+                    </div>
+                    <div class="view-more">
+                    	<a href="{base_url}games" class="ready-btn" >View more games</a>
                     </div>
                 </div>
             </div>
@@ -545,75 +327,6 @@
 			<!-- End main content -->
 		</div>
 		<!-- End portfolio Area -->
-        <!-- Start testimonials Area -->
-        <div class="reviews-area bg-color-1 fix area-padding">
-            <div class="container">
-                <div class="row">
-					<div class="col-md-12 col-sm-12 col-xs-12">
-						<div class="section-headline white-headline text-center">
-							<h3>Players Reviews</h3>
-							<p>Cavalier Studios has been creating innovative games since 2003. We offer our clients professional development services.</p>
-						</div>
-					</div>
-				</div>
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="Reviews-content">
-                            <!-- start testimonial carousel -->
-                            <div class="testimonial-carousel item-indicator">
-                                <div class="single-testi">
-                                    <div class="testi-img ">
-                                        <img src="{base_url}assets/img/review/1.jpg" alt="">
-                                    </div>
-                                    <div class="testi-text">
-                                        <p>Replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection.</p>
-                                        <h4>Arnold russel</h4>
-                                        <span class="guest-rev">Clients - <a href="#">Genarel customer</a></span>
-                                    </div>
-                                </div>
-                                <!-- End single item -->
-                                <div class="single-testi">
-                                    <div class="testi-img ">
-                                        <img src="{base_url}assets/img/review/2.jpg" alt="">
-                                    </div>
-                                    <div class="testi-text">
-                                        <p>Replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection.</p>
-                                        <h4>Selena gomaz</h4>
-                                        <span class="guest-rev">Clients - <a href="#">Genarel customer</a></span>
-                                    </div>
-                                </div>
-                                <!-- End single item -->
-                                <div class="single-testi">
-                                    <div class="testi-img">
-                                        <img src="{base_url}assets/img/review/3.jpg" alt="">
-                                    </div>
-                                    <div class="testi-text">
-                                        <p>Replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection.</p>
-
-                                        <h4>Manila meri</h4>
-                                        <span class="guest-rev">Clients  - <a href="#">Genarel customer</a></span>
-                                    </div>
-                                </div>
-                                <!-- End single item -->
-                                <div class="single-testi">
-                                    <div class="testi-img">
-                                        <img src="{base_url}assets/img/review/4.jpg" alt="">
-                                    </div>
-
-                                    <div class="testi-text">
-                                        <p>Replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection.</p>
-                                        <h4>Robert karlus</h4>
-                                        <span class="guest-rev">Clients - <a href="#">Genaral manager</a></span>
-                                    </div>
-                                </div>
-                                <!-- End single item -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End testimonials end -->
         <!-- Start Challange Area -->
         <div class="challange-area bg-color-2 area-padding">
             <div class="container">

@@ -80,6 +80,7 @@
 											<li><a href="{base_url}events">Events</a></li>
 											<li><a href="{base_url}services">Services</a></li>
 											<li><a href="{base_url}games">Games</a></li>
+                                            <li><a href="{base_url}promos">Promos</a></li>
 											<li><a href="{base_url}contact">contacts</a></li>
                                         </ul>
                                     </div>
@@ -106,6 +107,7 @@
 										<li><a href="{base_url}events">Events</a></li>
 										<li><a href="{base_url}services">Services</a></li>
 										<li><a href="{base_url}games">Games</a></li>
+                                        <li><a href="{base_url}promos">Promaos</a></li>
 										<li><a href="{base_url}contact">contacts</a></li>
                                     </ul>
                                 </nav>
