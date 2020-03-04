@@ -2517,6 +2517,25 @@ span.email-notes{
     color: #ec3742;
     font-weight: 700;
 }
+#events .service-details {
+    background: transparent
+}
+#events .service-details .ready-btn.b2 {
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 8px;
+    display: block;
+    padding: 4px 5px;
+}
+#events .service-details h5 {
+    margin-top: 10px;
+}
+#events .service-details p.pool {
+    margin-top: 3px;
+}
+.service-details p {
+    margin: 0;
+}
 .fa-heart {
     color: #ec3742;
 }

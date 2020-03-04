@@ -61,7 +61,7 @@
 					<div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="section-headline white-headline text-center">
 							<h3>Upcomming Events</h3>
-							<p>Join upcomming events of Timestamp</p>
+							<p>Join and register your team in our upcomming tournament events</p>
 						</div>
 					</div>
 				</div>
@@ -149,87 +149,120 @@
             </div>
         </div>
         <!-- Welcome service area End -->
-        <!-- Start Product Area -->
-        <div class="product-area bg-color-1 area-padding">
+		<!-- Start Challange Area -->
+        <div class="challange-area bg-color-1 area-padding">
             <div class="container">
-               <div class="row">
+                <div class="row">
 					<div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="section-headline white-headline text-center">
-							<h3>Games</h3>
-							<p>Sample description here. Sample description here. Sample description here. Sample description here. </p>
+							<h3>Tournament Highlights</h3>
+							<p>Live streaming matches, tournament matches and more more fun videos</p>
 						</div>
 					</div>
 				</div>
                 <div class="row">
-                    <div class="best-product">
-                        <!-- Start single product -->
-                        <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="single-product-container">
-                                <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="single-product">
-										<div class="product-img">
-										    <span class="category"> DOTA 2</span>
-											<img class="first-img" src="{base_url}assets/img/product/p1.jpg" alt="">
-											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-											   <i class="fa fa-play"></i>
-											</a>
+					<!-- End single page -->
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<div class="tab-menu">
+							 <!-- Nav tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<li class="active">
+								    <a href="#p-view-1" role="tab" data-toggle="tab">
+							            <img class="cha-img" src="{base_url}assets/img/challange/c1.jpg" alt="challange image">
+								        <span class="title-date">
+								        	<span class="cha-title">Challanger fight competition</span>
+								            <span class="cha-date">September 05, 2018</span>
+								        </span>
+								    </a>
+								</li>
+								<li>
+								    <a href="#p-view-2" role="tab" data-toggle="tab">
+							            <img class="cha-img" src="{base_url}assets/img/challange/c2.jpg" alt="challange image">
+								        <span class="title-date">
+								        	<span class="cha-title">Temple Fight Challanger</span>
+								            <span class="cha-date">December 01, 2018</span>
+								        </span>
+								    </a>
+								</li>
+								<li>
+							        <a href="#p-view-3" role="tab" data-toggle="tab">
+							            <img class="cha-img" src="{base_url}assets/img/challange/c3.jpg" alt="challange image">
+								        <span class="title-date">
+								        	<span class="cha-title">Angels fight competition</span>
+								            <span class="cha-date">November 12, 2018</span>
+								        </span>
+								    </a>
+								</li>
+								<li>
+							        <a href="#p-view-4" role="tab" data-toggle="tab">
+							            <img class="cha-img" src="{base_url}assets/img/challange/b4.jpg" alt="challange image">
+								        <span class="title-date">
+								        	<span class="cha-title">Dangers War fight man</span>
+								            <span class="cha-date">September 20, 2018</span>
+								        </span>
+								    </a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<div class="tab-content">
+							<div class="tab-pane active" id="p-view-1">
+								<div class="tab-inner">
+									<div class="single-page">
+										<div class="page-img">
+											<img src="{base_url}assets/img/challange/b1.jpg" alt="">
 										</div>
-                                    </div>
-                                </div>
-                                <!-- Start product content -->
-                                <div class="col-md-6 col-sm-6 col-xs-12">
-									<div class="single-product">
-										<div class="product-img">
-										    <span class="category"> League of Legends</span>
-											<img class="first-img" src="{base_url}assets/img/product/p2.jpg" alt="">
-											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-											   <i class="fa fa-play"></i>
-											</a>
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="p-view-2">
+								<div class="tab-inner">
+									<div class="single-page">
+										<div class="page-img">
+											<img src="{base_url}assets/img/challange/b2.jpg" alt="">
 										</div>
-                                    </div>
-                                </div>
-                                <!-- End product content -->
-                            </div>
-                        </div>
-                        <!-- End single product -->
-                        <!-- Start single product -->
-                        <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="single-product-container">
-                                <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="single-product">
-										<div class="product-img">
-										    <span class="category"> DOTA 2</span>
-											<img class="first-img" src="{base_url}assets/img/product/p1.jpg" alt="">
-											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-											   <i class="fa fa-play"></i>
-											</a>
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="p-view-3">
+								<div class="tab-inner">
+									<div class="single-page">
+										<div class="page-img">
+											<img src="{base_url}assets/img/challange/b3.jpg" alt="">
 										</div>
-                                    </div>
-                                </div>
-                                <!-- Start product content -->
-                                <div class="col-md-6 col-sm-6 col-xs-12">
-									<div class="single-product">
-										<div class="product-img">
-										    <span class="category"> League of Legends</span>
-											<img class="first-img" src="{base_url}assets/img/product/p2.jpg" alt="">
-											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-											   <i class="fa fa-play"></i>
-											</a>
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="p-view-4">
+								<div class="tab-inner">
+									<div class="single-page">
+										<div class="page-img">
+											<img src="{base_url}assets/img/challange/b4.jpg" alt="">
 										</div>
-                                    </div>
-                                </div>
-                                <!-- End product content -->
-                            </div>
-                        </div>
-                        <!-- End single product -->
-                    </div>
-                    <div class="view-more">
-                    	<a href="{base_url}games" class="ready-btn b2" >View more games</a>
-                    </div>
-                </div>
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end column -->
+				</div>
+				<!-- end Row -->
             </div>
         </div>
-        <!-- End Product Area -->
+        <!-- End Challange end -->
         <!-- Start Gallery Area -->
         <div class="project-area bg-color-2 fix area-padding">
 			<div class="container-full">
@@ -237,7 +270,7 @@
 					<div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="section-headline white-headline text-center">
 							<h3>Our Gallery</h3>
-							<p>Cavalier Studios has been creating innovative games since 2003. We offer our clients professional development services.</p>
+							<p>Photos taken from events, fun moments and the timestamp environment.</p>
 						</div>
 					</div>
 				</div>
@@ -350,117 +383,84 @@
 			<!-- End main content -->
 		</div>
 		<!-- End portfolio Area -->
-        <!-- Start Challange Area -->
-        <div class="challange-area bg-color-2 area-padding">
+        <!-- Start Product Area -->
+        <div class="product-area bg-color-1 area-padding">
             <div class="container">
-                <div class="row">
+               <div class="row">
 					<div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="section-headline white-headline text-center">
-							<h3>Competition</h3>
-							<p>Cavalier Studios has been creating innovative games since 2003. We offer our clients professional development services.</p>
+							<h3>Games</h3>
+							<p>Sample description here. Sample description here. Sample description here. Sample description here. </p>
 						</div>
 					</div>
 				</div>
                 <div class="row">
-					<!-- End single page -->
-					<div class="col-md-6 col-sm-6 col-xs-12">
-						<div class="tab-menu">
-							 <!-- Nav tabs -->
-							<ul class="nav nav-tabs" role="tablist">
-								<li class="active">
-								    <a href="#p-view-1" role="tab" data-toggle="tab">
-							            <img class="cha-img" src="{base_url}assets/img/challange/c1.jpg" alt="challange image">
-								        <span class="title-date">
-								        	<span class="cha-title">Challanger fight competition</span>
-								            <span class="cha-date">September 05, 2018</span>
-								        </span>
-								    </a>
-								</li>
-								<li>
-								    <a href="#p-view-2" role="tab" data-toggle="tab">
-							            <img class="cha-img" src="{base_url}assets/img/challange/c2.jpg" alt="challange image">
-								        <span class="title-date">
-								        	<span class="cha-title">Temple Fight Challanger</span>
-								            <span class="cha-date">December 01, 2018</span>
-								        </span>
-								    </a>
-								</li>
-								<li>
-							        <a href="#p-view-3" role="tab" data-toggle="tab">
-							            <img class="cha-img" src="{base_url}assets/img/challange/c3.jpg" alt="challange image">
-								        <span class="title-date">
-								        	<span class="cha-title">Angels fight competition</span>
-								            <span class="cha-date">November 12, 2018</span>
-								        </span>
-								    </a>
-								</li>
-								<li>
-							        <a href="#p-view-4" role="tab" data-toggle="tab">
-							            <img class="cha-img" src="{base_url}assets/img/challange/b4.jpg" alt="challange image">
-								        <span class="title-date">
-								        	<span class="cha-title">Dangers War fight man</span>
-								            <span class="cha-date">September 20, 2018</span>
-								        </span>
-								    </a>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-md-6 col-sm-6 col-xs-12">
-						<div class="tab-content">
-							<div class="tab-pane active" id="p-view-1">
-								<div class="tab-inner">
-									<div class="single-page">
-										<div class="page-img">
-											<img src="{base_url}assets/img/challange/b1.jpg" alt="">
+                    <div class="best-product">
+                        <!-- Start single product -->
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="single-product-container">
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="single-product">
+										<div class="product-img">
+										    <span class="category"> DOTA 2</span>
+											<img class="first-img" src="{base_url}assets/img/product/p1.jpg" alt="">
+											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
+											   <i class="fa fa-play"></i>
+											</a>
 										</div>
-										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
-											<i class="fa fa-play"></i>
-										</a>
-									</div>
-								</div>
-							</div>
-							<div class="tab-pane" id="p-view-2">
-								<div class="tab-inner">
-									<div class="single-page">
-										<div class="page-img">
-											<img src="{base_url}assets/img/challange/b2.jpg" alt="">
+                                    </div>
+                                </div>
+                                <!-- Start product content -->
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+									<div class="single-product">
+										<div class="product-img">
+										    <span class="category"> League of Legends</span>
+											<img class="first-img" src="{base_url}assets/img/product/p2.jpg" alt="">
+											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
+											   <i class="fa fa-play"></i>
+											</a>
 										</div>
-										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
-											<i class="fa fa-play"></i>
-										</a>
-									</div>
-								</div>
-							</div>
-							<div class="tab-pane" id="p-view-3">
-								<div class="tab-inner">
-									<div class="single-page">
-										<div class="page-img">
-											<img src="{base_url}assets/img/challange/b3.jpg" alt="">
+                                    </div>
+                                </div>
+                                <!-- End product content -->
+                            </div>
+                        </div>
+                        <!-- End single product -->
+                        <!-- Start single product -->
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="single-product-container">
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="single-product">
+										<div class="product-img">
+										    <span class="category"> DOTA 2</span>
+											<img class="first-img" src="{base_url}assets/img/product/p1.jpg" alt="">
+											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
+											   <i class="fa fa-play"></i>
+											</a>
 										</div>
-										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
-											<i class="fa fa-play"></i>
-										</a>
-									</div>
-								</div>
-							</div>
-							<div class="tab-pane" id="p-view-4">
-								<div class="tab-inner">
-									<div class="single-page">
-										<div class="page-img">
-											<img src="{base_url}assets/img/challange/b4.jpg" alt="">
+                                    </div>
+                                </div>
+                                <!-- Start product content -->
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+									<div class="single-product">
+										<div class="product-img">
+										    <span class="category"> League of Legends</span>
+											<img class="first-img" src="{base_url}assets/img/product/p2.jpg" alt="">
+											<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
+											   <i class="fa fa-play"></i>
+											</a>
 										</div>
-										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
-											<i class="fa fa-play"></i>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- end column -->
-				</div>
-				<!-- end Row -->
+                                    </div>
+                                </div>
+                                <!-- End product content -->
+                            </div>
+                        </div>
+                        <!-- End single product -->
+                    </div>
+                    <div class="view-more">
+                    	<a href="{base_url}games" class="ready-btn b2" >View more games</a>
+                    </div>
+                </div>
             </div>
         </div>
-        <!-- End Challange end -->
+        <!-- End Product Area -->

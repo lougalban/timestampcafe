@@ -50,15 +50,12 @@
                         <div class="col-md-4 col-sm-3 col-xs-12">
                             <div class="footer-content">
                                 <div class="footer-head">
-                                    <h4>Competition Games</h4>
+                                    <h4>Services</h4>
                                     <div class="footer-services-link">
                                     	<ul class="footer-list">
-											<li><a href="#">Draogons war</a></li>
-											<li><a href="#">Stranger Anime</a></li>
-											<li><a href="#">Skyfall challange</a></li>
-											<li><a href="#">Ripple fight</a></li>
-											<li><a href="#">Alverter david</a></li>
-											<li><a href="#">Daneres fight</a></li>
+											<li><a href="#">Computer Rent</a></li>
+											<li><a href="#">Printing</a></li>
+											<li><a href="#">Digital Solutions: <span>www.relogatech.com</span></a></li>
 										</ul>
                                     </div>
                                 </div>
@@ -70,7 +67,7 @@
                                 <div class="footer-head">
                                     <h4>Subscribe</h4>
                                     <p>
-                                        Are you looking for professional games services for your new games.Are you looking for professional developer for your new games.
+                                        Do you want to receive update of upcomming events, news and fun.
                                     </p>
                                     <div class="subs-feilds">
                                         <div class="suscribe-input">
