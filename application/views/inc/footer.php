@@ -9,7 +9,7 @@
                                 <div class="footer-head">
                                     <h4>Information</h4>
                                     <div class="footer-contacts">
-                                        <p><span>Tel :</span> +1907-543478944</p>
+                                        <p><span>Mobile :</span> 09753747656</p>
                                         <p><span>Email :</span> timestampcafe@gmail.com</p>
                                         <p><span>Location :</span> Cabrera St. Pasay City</p>
                                     </div>
@@ -25,7 +25,7 @@
                                                     <i class="fa fa-twitter"></i>
                                                 </a>
                                             </li>
-                                            <li>
+                                            <!-- <li>
                                                 <a href="#">
                                                     <i class="fa fa-google"></i>
                                                 </a>
@@ -34,7 +34,7 @@
                                                 <a href="#">
                                                     <i class="fa fa-pinterest"></i>
                                                 </a>
-                                            </li>
+                                            </li> -->
                                             <li>
                                                 <a href="#">
                                                     <i class="fa fa-instagram"></i>
@@ -92,8 +92,8 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="copyright">
                                 <p>
-                                    Copyright © 2019
-                                    <a href="{base_url}">Timstamp Cyber Cafe</a> All Rights Reserved
+                                    Made with <i class="fa fa-heart"></i> by 
+                                    <a href="{base_url}">Reloga Technology Solutions</a>
                                 </p>
                             </div>
                         </div>
