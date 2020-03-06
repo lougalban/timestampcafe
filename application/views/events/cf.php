@@ -35,7 +35,7 @@
                         <div class="single-product">
                             <h1>Crossfire: Summer Tournament</h1>
                             <div class="product">
-                                <img src="{base_url}assets/img/events/events-cover.jpg" alt="Mobile Legends Tournament">
+                                <img src="{base_url}assets/img/events/crossfire-tournament.jpg" alt="Mobile Legends Tournament">
                             </div>
                             <!-- Start product content -->
                             <div class="col-md-6 col-sm-6">

@@ -35,7 +35,7 @@
                         <div class="single-product">
                             <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="product">
-                                    <img src="{base_url}assets/img/events/events-cover.jpg" alt="Mobile Legends Tournament">
+                                    <img src="{base_url}assets/img/events/mobile-legends-tournament.jpg" alt="Mobile Legends Tournament">
                                 </div>
                             </div>
                             <!-- Start product content -->
@@ -76,7 +76,7 @@
                             <!-- End product content -->
                             <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="product">
-                                    <img src="{base_url}assets/img/events/events-cover.jpg" alt="Mobile Legends Tournament">
+                                    <img src="{base_url}assets/img/events/crossfire-tournament.jpg" alt="Crossfire Tournament">
                                 </div>
                             </div>
                         </div>
@@ -87,7 +87,7 @@
                         <div class="single-product">
                             <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="product">
-                                    <img src="{base_url}assets/img/events/events-cover.jpg" alt="Mobile Legends Tournament">
+                                    <img src="{base_url}assets/img/events/league-of-legends-tournament.jpg" alt="League of Legends Tournament">
                                 </div>
                             </div>
                             <!-- Start product content -->

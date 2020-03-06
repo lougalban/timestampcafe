@@ -71,7 +71,7 @@
 						<div class="col-md-4 col-sm-4 col-xs-12">
 							<div class="single-services text-center">
 								<div class="services-img">
-									<img src="{base_url}assets/img/events/events-cover.jpg" alt="Mobile Legends Tournament">
+									<img src="{base_url}assets/img/events/mobile-legends-tournament.jpg" alt="Mobile Legends Tournament">
 									<div class="image-layer"></div>
 								</div>
 								<div class="main-services">
@@ -97,7 +97,7 @@
 						<div class="col-md-4 col-sm-4 col-xs-12">
 							<div class="single-services text-center">
 								<div class="services-img">
-									<img src="{base_url}assets/img/events/events-cover.jpg" alt="Mobile Legends Tournament">
+									<img src="{base_url}assets/img/events/crossfire-tournament.jpg" alt="Crossfire Tournament">
 									<div class="image-layer"></div>
 								</div>
 								<div class="main-services">
@@ -123,7 +123,7 @@
 						<div class="col-md-4 col-sm-4 col-xs-12">
 							<div class="single-services text-center">
 								<div class="services-img">
-									<img src="{base_url}assets/img/events/events-cover.jpg" alt="Mobile Legends Tournament">
+									<img src="{base_url}assets/img/events/league-of-legends-tournament.jpg" alt="League of Legends Tournament">
 									<div class="image-layer"></div>
 								</div>
 								<div class="main-services">
