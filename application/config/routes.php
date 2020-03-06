@@ -52,3 +52,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'main';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+
+$route['events/mobile-legends-tournament-march-28-2020'] = 'events/event1';
+$route['events/crossfire-tournament-april-18-2020'] = 'events/event2';
+$route['events/league-of-legends-tournament-may-02-2020'] = 'events/event3';

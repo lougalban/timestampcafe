@@ -10,7 +10,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- favicon -->		
-		<link rel="shortcut icon" type="image/x-icon" href="{base_url}assets/img/logo/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="{base_url}assets/img/logo/fav-icon.jpg">
 
 		<!-- all css here -->
 
@@ -53,7 +53,7 @@
                         <div class="col-md-3 col-sm-3">
                             <div class="logo">
                                 <!-- Brand -->
-                                <a class="navbar-brand page-scroll sticky-logo" href="index-2.html">
+                                <a class="navbar-brand page-scroll sticky-logo" href="{base_url}">
                                     <img src="{base_url}assets/img/logo/timestamp-logo.png" alt="">
                                 </a>
                             </div>
@@ -78,9 +78,9 @@
                                         <ul class="nav navbar-nav navbar-right">
                                             <li><a href="{base_url}">Home</a></li>
 											<li><a href="{base_url}events">Events</a></li>
-											<li><a href="{base_url}services">Services</a></li>
-											<li><a href="{base_url}games">Games</a></li>
-                                            <li><a href="{base_url}promos">Promos</a></li>
+											<!-- <li><a href="{base_url}services">Services</a></li> -->
+											<!-- <li><a href="{base_url}games">Games</a></li> -->
+                                            <!-- <li><a href="{base_url}promos">Promos</a></li> -->
 											<li><a href="{base_url}contact">Contact Us</a></li>
                                         </ul>
                                     </div>
@@ -99,15 +99,15 @@
                         <div class="col-md-12">
                             <div class="mobile-menu">
                                 <div class="logo">
-                                    <a href="index-2.html"><img src="{base_url}assets/img/logo/logo2.png" alt="" /></a>
+                                    <a href="{base_url}"><img src="{base_url}assets/img/logo/timestamp-logo.png" alt="" /></a>
                                 </div>
                                 <nav id="dropdown">
                                     <ul>
                                         <li><a href="{base_url}">Home</a></li>
 										<li><a href="{base_url}events">Events</a></li>
-										<li><a href="{base_url}services">Services</a></li>
-										<li><a href="{base_url}games">Games</a></li>
-                                        <li><a href="{base_url}promos">Promaos</a></li>
+										<!-- <li><a href="{base_url}services">Services</a></li> -->
+										<!-- <li><a href="{base_url}games">Games</a></li> -->
+                                        <!-- <li><a href="{base_url}promos">Promaos</a></li> -->
 										<li><a href="{base_url}contact">Contact Us</a></li>
                                     </ul>
                                 </nav>

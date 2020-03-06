@@ -16,8 +16,7 @@ class __getglobal {
 
 	public function templater($page, $data = array()){
 		$data = $this->data_default($data);
-		// $pageid = $data['page'];
-
+		$data['adds'] = $this->CI->load->view('inc/reloga', NULL, TRUE);
 		$this->CI->parser->parse('inc/header', $data);
 		$this->CI->parser->parse($page, $data);
 		$this->CI->parser->parse('inc/footer', $data);

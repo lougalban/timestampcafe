@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Montserrat', sans-serif;
 }
 h1{
-	font-size: 48px;
+	font-size: 30px;
 	line-height: 50px;
 		
 }
@@ -162,7 +162,7 @@ body {
 .clear{
 	clear:both;
 }
-ul{
+footer ul{
 	list-style: outside none none;
 	margin: 0;
 	padding: 0;
@@ -206,7 +206,7 @@ div#preloader {
     padding: 0.2em 0;
 }
 .area-padding{
-	padding: 100px 0px;
+	padding: 90px 0px;
 }
 .page-padding{
     padding: 130px 0px 100px;
@@ -2523,7 +2523,7 @@ span.email-notes{
 #events .service-details .ready-btn.b2 {
     width: 200px;
     margin: 0 auto;
-    margin-top: 8px;
+    margin-top: 18px;
     display: block;
     padding: 4px 5px;
 }
@@ -2533,12 +2533,125 @@ span.email-notes{
 #events .service-details p.pool {
     margin-top: 3px;
 }
+#events .single-event {
+    background: #080e15;
+    padding: 30px 4px;
+    margin-bottom: 30px;
+}
+#events .page-area {
+    background-position: bottom;
+}
 .service-details p {
     margin: 0;
 }
 .fa-heart {
     color: #ec3742;
 }
+#addvertisment {
+    background: #000;
+    border-top: 5px solid #ec3742;
+    border-bottom: 5px solid #ec3742;
+}
+#addvertisment .contact-form {
+    /* width: 50%; */
+    margin: 0 auto;
+    display: block;
+    float: none;
+}
+#addvertisment .contact-form label {
+    font-size: 17px;
+}
+#addvertisment .contact-form button {
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 100%;
+}
+#addvertisment .contact-form .form-control {
+    background: #fff;
+    border-radius: 9px;
+    font-size: 17px;
+}
+#addvertisment .contact-form input {
+    height: 55px;
+}
+#addvertisment .section-headline {
+    padding-bottom: 30px;
+}
+#addvertisment p {
+    max-width: 800px;
+}
+#addvertisment p.intro {
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 10px;
+}
+#addvertisment p.invite {
+    font-size: 20px;
+    margin-top: 20px;
+    background: #ec3742;
+    border-radius: 3px;
+    padding: 10px 0;
+    max-width: 720px;
+}
+#addvertisment p.refer {
+    clear: both;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+.breadcrumb ul li.home-bread a {
+    color: #fff;
+}
+.single-event-container .contact-form h4 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #ec3742;
+}
+.single-event-container .contact-form .form-group {
+    clear: both;
+    padding: 28px 0;
+}
+.single-event-container .contact-form input {
+    color: #ff7d85;
+}
+
+.single-event-container .service-details p,
+.single-event-container .service-details h5 {
+    text-align: left;
+}
+.single-event-container .contact-form button {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.single-event-container .service-details .step {
+    color: #ec3742;
+}
+.single-event-container .product {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.single-event-container h1 {
+    text-align: center;
+}
+.single-event-container .contact-form .service-details {
+    background: #111a25 !important;
+}
+.vbox-container img {
+    max-width: none;
+}
+form label span {
+    color: #960009;
+    font-size: 15px;
+}
+.view-more .ready-btn {
+    padding: 10px 10px !important;
+    width: auto !important;
+}
+
 /*--------------------------------*/
 /* .End CSS
 /*--------------------------------*/

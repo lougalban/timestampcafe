@@ -53,9 +53,9 @@
                                     <h4>Services</h4>
                                     <div class="footer-services-link">
                                     	<ul class="footer-list">
-											<li><a href="#">Computer Rent</a></li>
-											<li><a href="#">Printing</a></li>
-											<li><a href="#">Digital Solutions: <span>www.relogatech.com</span></a></li>
+											<li><a>Computer Rent</a></li>
+											<li><a>Printing</a></li>
+											<li><a>Website Development</a></li>
 										</ul>
                                     </div>
                                 </div>
@@ -67,7 +67,7 @@
                                 <div class="footer-head">
                                     <h4>Subscribe</h4>
                                     <p>
-                                        Do you want to receive update of upcomming events, news and fun.
+                                        Do you want to receive update of upcoming events, news and fun.
                                     </p>
                                     <div class="subs-feilds">
                                         <div class="suscribe-input">
@@ -89,8 +89,8 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="copyright">
                                 <p>
-                                    Made with <i class="fa fa-heart"></i> by 
-                                    <a href="{base_url}">Reloga Technology Solutions</a>
+                                    Made with <i class="fa fa-heart"></i> by Timestamp Team
+                                    <!-- <a href="https://www.facebook.com/relogatech/" target=_blank>Reloga Prime</a> -->
                                 </p>
                             </div>
                         </div>

@@ -77,7 +77,7 @@
 								<div class="main-services">
 									<div class="service-content">
 										<h4>Mobile Legends Tournament</h4>
-										<a href="{base_url}events/mobile-legends-tournament-march-28-2020" class="ready-btn register">Register</a>
+										<a href="{base_url}/events/mobile-legend-tournament-march-28-2020" class="ready-btn register">Register</a>
 									</div>
 								</div>
 								<div class="service-details">
@@ -89,7 +89,7 @@
                                     <p>3rd Place: P2,000</p>                                    
                                     <p>Registration Fee: P500</p>
 									<!-- <a class="service-btn" href="#">View Details</a> -->
-									<a href="{base_url}events/mobile-legends-tournament-march-28-2020" class="ready-btn b2">Register</a>
+									<a href="{base_url}/events/mobile-legend-tournament-march-28-2020" class="ready-btn b2">Register</a>
 								</div>
 							</div>
 						</div>
@@ -103,7 +103,7 @@
 								<div class="main-services">
 									<div class="service-content">
 										<h4>Crossfire Tournament</h4>
-										<a href="{base_url}events/crossfire-tournament-april-18-2020" class="ready-btn register">Register</a>
+										<a href="{base_url}/events/mobile-legend-tournament-march-28-2020" class="ready-btn register">Register</a>
 									</div>
 								</div>
 								<div class="service-details">
@@ -115,7 +115,7 @@
                                     <p>3rd Place: P2,000</p>                                    
                                     <p>Registration Fee: P500</p>
 									<!-- <a class="service-btn" href="#">View Details</a> -->
-									<a href="{base_url}events/crossfire-tournament-april-18-2020" class="ready-btn b2">Register</a>
+									<a href="{base_url}/events/mobile-legend-tournament-march-28-2020" class="ready-btn b2">Register</a>
 								</div>
 							</div>
 						</div>
@@ -128,32 +128,143 @@
 								</div>
 								<div class="main-services">
 									<div class="service-content">
-										<h4>League of Legends</h4>
+										<h4>League of Legendst</h4>
 										<a href="{base_url}/events/mobile-legend-tournament-march-28-2020" class="ready-btn register">Register</a>
 									</div>
 								</div>
 								<div class="service-details">
-									<h5>League of Legends</h5>
+									<h5>League of Legendst</h5>
 									<p class="pool">Prize Pool: P15,000</p>
 									<p>Date: May 2, 2020</p>
                                     <p>Champion: P10,000</p>
                                     <p>2nd Place: P3,000</p>
                                     <p>3rd Place: P2,000</p>                                    
                                     <p>Registration Fee: P500</p>
-									<a href="{base_url}events/league-of-legends-tournament-may-02-2020" class="ready-btn b2">Register</a>
+									<a href="{base_url}/events/mobile-legend-tournament-march-28-2020" class="ready-btn b2">Register</a>
 								</div>
 							</div>
 						</div>
-					</div>
-					<div class="view-more">
-                    	<a href="{base_url}events" class="ready-btn" >View more tournament</a>
                     </div>
                 </div>
             </div>
         </div>
         <!-- Welcome service area End -->
+		<!-- Start Challange Area -->
+        <div class="challange-area bg-color-1 area-padding">
+            <div class="container">
+                <div class="row">
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="section-headline white-headline text-center">
+							<h3>Video Highlights</h3>
+							<p>Live streaming matches, tournament matches and more more fun videos</p>
+						</div>
+					</div>
+				</div>
+                <div class="row">
+					<!-- End single page -->
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<div class="tab-menu">
+							 <!-- Nav tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<li class="active">
+								    <a href="#p-view-1" role="tab" data-toggle="tab">
+							            <img class="cha-img" src="{base_url}assets/img/challange/c1.jpg" alt="challange image">
+								        <span class="title-date">
+								        	<span class="cha-title">Challanger fight competition</span>
+								            <span class="cha-date">September 05, 2018</span>
+								        </span>
+								    </a>
+								</li>
+								<li>
+								    <a href="#p-view-2" role="tab" data-toggle="tab">
+							            <img class="cha-img" src="{base_url}assets/img/challange/c2.jpg" alt="challange image">
+								        <span class="title-date">
+								        	<span class="cha-title">Temple Fight Challanger</span>
+								            <span class="cha-date">December 01, 2018</span>
+								        </span>
+								    </a>
+								</li>
+								<li>
+							        <a href="#p-view-3" role="tab" data-toggle="tab">
+							            <img class="cha-img" src="{base_url}assets/img/challange/c3.jpg" alt="challange image">
+								        <span class="title-date">
+								        	<span class="cha-title">Angels fight competition</span>
+								            <span class="cha-date">November 12, 2018</span>
+								        </span>
+								    </a>
+								</li>
+								<li>
+							        <a href="#p-view-4" role="tab" data-toggle="tab">
+							            <img class="cha-img" src="{base_url}assets/img/challange/b4.jpg" alt="challange image">
+								        <span class="title-date">
+								        	<span class="cha-title">Dangers War fight man</span>
+								            <span class="cha-date">September 20, 2018</span>
+								        </span>
+								    </a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<div class="tab-content">
+							<div class="tab-pane active" id="p-view-1">
+								<div class="tab-inner">
+									<div class="single-page">
+										<div class="page-img">
+											<img src="{base_url}assets/img/challange/b1.jpg" alt="">
+										</div>
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="p-view-2">
+								<div class="tab-inner">
+									<div class="single-page">
+										<div class="page-img">
+											<img src="{base_url}assets/img/challange/b2.jpg" alt="">
+										</div>
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="p-view-3">
+								<div class="tab-inner">
+									<div class="single-page">
+										<div class="page-img">
+											<img src="{base_url}assets/img/challange/b3.jpg" alt="">
+										</div>
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="p-view-4">
+								<div class="tab-inner">
+									<div class="single-page">
+										<div class="page-img">
+											<img src="{base_url}assets/img/challange/b4.jpg" alt="">
+										</div>
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end column -->
+				</div>
+				<!-- end Row -->
+            </div>
+        </div>
+        <!-- End Challange end -->
         <!-- Start Gallery Area -->
-        <div class="project-area bg-color-1 fix area-padding">
+        <div class="project-area bg-color-2 fix area-padding">
 			<div class="container-full">
 			    <div class="row">
 					<div class="col-md-12 col-sm-12 col-xs-12">
